@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int priceTicket = 1220;
+        int priceTicket = 1000;
         int moneySpent = 20;
         int miles = priceTicket / moneySpent;
 
